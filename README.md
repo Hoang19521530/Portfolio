@@ -22,7 +22,7 @@ To run this project on your local machine, follow the steps below:
 1. Clone this repository to your local system using the following command:
 
 ```
-git clone <repository-url>
+git clone <https://github.com/HoangDVH/Portfolio.git>
 ```
 
 2. Install the project dependencies:
